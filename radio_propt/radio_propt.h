@@ -4,7 +4,9 @@
 #pragma once
 
 #include <iostream>
-#include<string>
-#include"loop.h"
+#include <string>
+#include <cstdio>
+#include <ctime>
+#include "loop.h"
 
 // TODO: Reference additional headers your program requires here.
